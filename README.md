@@ -11,11 +11,19 @@ Their revenue management team had decided to hire a 3rd party service provider t
 # insights from the Dashboard
 
 •	At 70.57%, Logtrip had the highest Realisation % and was 1.10% higher than Tripster, which had the lowest Realisation % at 69.80%.
+
 •	ADR and Realisation % diverged the most when the booking platform was direct offline, when ADR were 1279305.65% higher than Realisation %.
+
 •	Across all 7 booking platform, Realisation % ranged from 69.80% to 70.57% and ADR ranged from 12,638 to 12,794.
+
 •	Elite rooms accounted for 36.95% of Total Capacity.
+
 •	At 227 million, Mumbai had the highest Revenue and was 128.38% higher than Delhi, which had the lowest Revenue at 100 million.
+
 •	Mumbai had the highest Revenue at 227 million, followed by Bangalore, Hyderabad, and Delhi.
+
 •	Mumbai accounted for 39.07% of Revenue.
+
 •	Across all 4 cities, Occupancy % ranged from 56.5% to 61.0%.
+
 •	Average Rating and Occupancy % diverged the most when the week no was W 23, when Average Rating were 311.8% higher than Occupancy %.
